@@ -39,6 +39,7 @@ h1 {
 .wrapper {
   margin: 50px auto;
   max-width: 500px;
+  padding: 0 15px;
 }
 section + section {
   margin-top: 25px;
